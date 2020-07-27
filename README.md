@@ -8,13 +8,3 @@ To set Jetson Nano to 10W performance mode ([reference](https://devtalk.nvidia.c
    $ sudo nvpmodel -m 0
    $ sudo jetson_clocks
    ```
-
-Here is a list of blog posts related to the scripts in this repository:
-
-* [Setting up Jetson Nano: The Basics](https://jkjung-avt.github.io/setting-up-nano/)
-* [Installing OpenCV 3.4.6 on Jetson Nano](https://jkjung-avt.github.io/opencv-on-nano/)
-* [Installing and Testing SSD Caffe on Jetson Nano](https://jkjung-avt.github.io/ssd-caffe-on-nano/)
-* [Building TensorFlow 1.12.2 on Jetson Nano](https://jkjung-avt.github.io/build-tensorflow-1.12.2/)
-* [Building TensorFlow 2.0.0 on Jetson Nano](https://jkjung-avt.github.io/build-tensorflow-2.0.0/)
-* [JetPack-4.3 for Jetson Nano](https://jkjung-avt.github.io/jetpack-4.3/)
-* [JetPack-4.4 for Jetson Nano](https://jkjung-avt.github.io/jetpack-4.4/)
